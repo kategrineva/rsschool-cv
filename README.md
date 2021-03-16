@@ -1,2 +1,1 @@
-# rsschool-cv
-Test task for RS Scholl
+https://kategrineva.github.io/rsschool-cv/cv
