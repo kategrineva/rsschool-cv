@@ -60,5 +60,16 @@ I am a curly ukrainian girl that really in love with markup, all shades of casca
 
 ## Code examples
 ## Experience
+* Ciklum Codeworldwide team (September 2013 – July 2016)
+* Maxymiser (August 2012 – September 2013)
+* Iveonik Systems Ltd (October 2010 – August 2012)
+
 ## Education
+**A Master’s degree:**
+2006-2011 – Dneprodzerzhinsk State Technical University
+
+**Specialty:** Applied Mathematics and Computer Simulation 
+
+**Research work:** "Neural Networks"
+
 ## English
