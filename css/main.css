@@ -3,6 +3,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 html {
@@ -18,10 +19,61 @@ body {
     height: 100%;
 }
 
+/* + HEADER */
+
+header {
+    background: #5565AC;
+    height: 252px;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+/* - HEADER */
+
+
+/* + MAIN CONTENT */
+
+main {
+    overflow: hidden;
+    height: 100%;
+    padding: 252px 0 72px;
+}
+
+.sidebar-info {
+    background: #fefefe;
+    float: left;
+    width: 40%;
+    height: 100%;
+    box-shadow: 0 0px 3px 0px #aaaaaa;
+}
+
+/* Clear floats after the columns */
+.sidebar-info:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.portfolio {
+    float: right;
+    width: 60% ;
+}
+
+/* - MAIN CONTENT */
+
+/* + FOOTER */
+
 footer {
+    background: #5666AD;
+    color: #fefefe;
     position: absolute;
     left: 0;
     bottom: 0;
     width: 100%;
+    padding: 0 50px;
+    height: 72px;
+    line-height: 72px;
 }
 
+/* - FOOTER */
